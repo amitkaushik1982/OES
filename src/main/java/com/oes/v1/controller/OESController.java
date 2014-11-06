@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.oes.controller;
+package com.oes.v1.controller;
 
 /**
  * @author akum25
